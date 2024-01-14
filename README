@@ -1,0 +1,22 @@
+# 基于express、puppeteer的nodejs服务端邮件定时发送
+需求描述
+> 1.定时发送邮件
+> 2.支持配置多个收件人
+> 3.支持邮件内容中插入图片
+
+## 1.安装依赖
+``` bash
+npm install
+```
+## 2.启动服务
+``` bash
+npm run dev
+```
+## 3.访问接口
+``` bash
+http://localhost:3000/
+```
+## 4.打包
+``` bash
+npm run build
+```
